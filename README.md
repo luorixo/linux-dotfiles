@@ -5,4 +5,5 @@
     </h3>
 </div>
 
-- [`Manjaro`](https://manjaro.org/) Linux distro 
+- [`Manjaro`](https://manjaro.org/) linux distro
+- [`KDE Plasma`](https://kde.org/) desktop environment
