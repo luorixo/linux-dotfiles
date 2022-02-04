@@ -3,7 +3,6 @@
     <h3>
     	<img src='Pictures/images/Icons/torchic-torchic-playing.gif' align='center' height='200px'>
     </h3>
-    <p align='center'>
-    	- [`Manjaro`](https://www.archlinux.org/download/) Distro
-    </p>
 </div>
+
+- [`Manjaro`](https://manjaro.org/) Linux distro 
