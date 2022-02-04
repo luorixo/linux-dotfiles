@@ -1,6 +1,6 @@
 <div align='center'>
     <h3>
-        My Linux Dotfiles
+        <h1>My Linux Dotfiles<h1>
     	<img src='Pictures/images/Icons/torchic-torchic-playing.gif' align='center' height='200px'>
     </h3>
 </div>
