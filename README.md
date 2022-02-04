@@ -1,7 +1,8 @@
 <div align='center'><h1>My Linux Dotfiles<h1></div>
 <div align='center'>
     <h3>
-    	<img src='images/banner-glorious.png' align='center' height='200px'>
+    	<img src='Pictures/images/
+torchic-torchic-playing.gif' align='center' height='200px'>
     </h3>
     <p align='center'>
     	<strong>
