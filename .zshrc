@@ -10,3 +10,4 @@ if [[ -e /usr/share/zsh/manjaro-zsh-prompt ]]; then
 fi
 
 neofetch
+alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
