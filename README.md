@@ -1,4 +1,4 @@
-<div align='center'># My Linux Dotfiles</div>
+<div align='center'><h1>My Linux Dotfiles<h1></div>
 <div align='center'>
     <h3>
     	<img src='images/banner-glorious.png' align='center' height='200px'>
